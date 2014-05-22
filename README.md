@@ -30,9 +30,7 @@ Install site package libs
 $ cd presidank
 /presidank $ npm install
 ```
-<br>
 ---
-<br>
 #### Develop locally (OS X)
 ```bash
 /presidank $ grunt serve
